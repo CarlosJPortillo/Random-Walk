@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475231797 source:c:\users\carlos\documents\c programming\assignment_5_csvc_325_part2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1475231797 source:c:\users\carlos\documents\c programming\assignment_5_csvc_325_part2\randomwalk.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
